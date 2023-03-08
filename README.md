@@ -115,29 +115,23 @@ THEN I should have proper build scripts for a webpack application
 
 ## Features
 
-- Offline mode: The text editor should be able to work offline, allowing users to continue writing even when they don't have an internet connection.
-
 - Auto-save: The text editor should automatically save changes to the user's document, ensuring that they never lose their work.
 
 - Rich text editing: The text editor should support a range of formatting options, such as bold, italic, underline, and font size.
 
 - Image insertion: The text editor should allow users to insert images into their document.
 
-- Sharing: The text editor should enable users to share their document via email or social media.
-
-- Collaboration: The text editor should allow multiple users to work on the same document simultaneously.
-
 - Responsive design: The text editor should be designed to work seamlessly across a range of devices and screen sizes.
-
-- Accessibility: The text editor should be designed to be accessible to users with disabilities, with features such as screen reader support and keyboard navigation.
 
 - These are just a few possible features for a PWA text editor - there are many other features that could be added depending on the needs of the user and the specific use case.
 
 ## Application Screenshot Preview
+![Screenshot 2023-03-08 151130](https://user-images.githubusercontent.com/113931387/223838690-b678665e-ec9f-41ee-bd6b-ff2ccdcd9d77.png)
 
 
+![Screenshot 2023-03-08 151153](https://user-images.githubusercontent.com/113931387/223838713-28ffc098-cd85-4e0b-a797-4bc93883328d.png)
 
 ##
 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License]
 ~
